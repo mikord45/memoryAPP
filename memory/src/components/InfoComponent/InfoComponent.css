@@ -1,0 +1,13 @@
+.infoComponent{
+    font-weight: bold;
+    font-family: "Arial";
+    font-size: 1.1em;
+    margin: 0px 5vw;
+}
+
+@media(max-width: 768px) {
+    .infoComponent{
+        margin: 1vh;
+        font-size: 1em;
+    }
+}

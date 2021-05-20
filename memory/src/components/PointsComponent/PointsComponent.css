@@ -1,0 +1,12 @@
+.pointsComponent{
+    font-weight: bold;
+    font-family: "Arial";
+    font-size: 1.5em;
+}
+
+@media(max-width: 768px) {
+    .pointsComponent{
+        margin: 0vh;
+        font-size: 1em;
+    }
+}

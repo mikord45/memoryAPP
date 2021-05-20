@@ -1,0 +1,12 @@
+.titleComponent{
+    font-size: 2em;
+    font-weight: bold;
+    font-family: 'Arial';
+    text-align: center;
+}
+
+@media(max-width: 768px) {
+    .titleComponent{
+        font-size: 1.2em;
+    }
+}
